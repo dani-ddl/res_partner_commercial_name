@@ -35,7 +35,8 @@
     ],
     'license': 'AGPL-3',
     'data': [
-        'views/commercial_name.xml'
+        'views/commercial_name.xml',
+        'views/search_commercial_name.xml'
     ],
     'demo': [],
     'installable': True,
