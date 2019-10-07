@@ -36,7 +36,9 @@
     'license': 'AGPL-3',
     'data': [
         'views/commercial_name.xml',
-        'views/search_commercial_name.xml'
+        'views/search_commercial_name.xml',
+        'views/view_partner_tree_commercial_name.xml',
+        'views/view_partner_kanban_commercial_name.xml'
     ],
     'demo': [],
     'installable': True,
